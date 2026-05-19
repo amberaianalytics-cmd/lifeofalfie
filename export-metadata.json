@@ -1,0 +1,23 @@
+{
+  "name": "A Day in The life of Alfie",
+  "revisionLabel": "Initialize Block 2: Module 4 Renal & GU Pathophysiology",
+  "description": "A Day in the Life of Alfie",
+  "mode": "Universal",
+  "exportDate": "2026-05-19T07:54:27.015Z",
+  "rosebudBuiltInSplash": {
+    "present": true,
+    "version": 1
+  },
+  "assetCount": 93,
+  "assetTypes": [
+    "mp3",
+    "txt",
+    "pdf",
+    "webp",
+    "png",
+    "js",
+    "html",
+    "com/rosebud_assets_storage/1429fd68-0c31-4a4e-ac0f-7e109a954ff2",
+    "docx"
+  ]
+}
